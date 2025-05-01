@@ -1,6 +1,6 @@
 # Hi, I'm Ryan 👋
 
-## My name is Ryan, and I'm currently enhancing my web-building skills through applications of Vue.Js and Java
+### My name is Ryan, and I'm currently enhancing my web-building skills through applications of Vue.Js and Java
 
 As a student, I'm passionate about learning more programming languages, and enhancing my IT skills. This is currently a hobby for me, but could be a great profession in the future.
 
