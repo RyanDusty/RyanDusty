@@ -12,7 +12,7 @@ As a student, I'm passionate about learning more programming languages, and enha
 
 - 🧑‍💻 Explore my work at [Ryan's Github Repositories](https://github.com/RyanDusty?tab=repositories)
 
-### Languages:
+# Languages:
 ## Learning:
 - Javascript, CSS, Python
 ## Okay at:
