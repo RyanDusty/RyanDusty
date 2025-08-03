@@ -14,8 +14,9 @@ As a student, I'm passionate about learning more programming languages, and enha
 
 ### Languages:
 Learning:
-- Javascript, HTML, CSS, Python, and Java
-
+- Javascript, CSS, Python
+Okay at:
+- Java, HTML
 
 
 <!--
